@@ -1,0 +1,1 @@
+# Liquibase Support for DynamoDB
