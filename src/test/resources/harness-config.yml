@@ -1,0 +1,9 @@
+inputFormat: xml
+context: testContext
+
+databasesUnderTest:
+  - name: dynamodb
+    version:
+    url: dynamodb://localhost:8000/lbcat
+    username: lbuser
+    password: LiquibasePass1
